@@ -34,7 +34,7 @@ _En Curso_
  <tr>
    <td><h3>PRINTF</h3></td>
    <td><img src="https://github.com/anatermay/anatermay/assets/166392499/cca68cd3-b35d-4d5b-87af-5dadbf2b6059" width="auto"></td>
-   <td><p>La función <a href="">printf</a> <i>printf</i> es una función de la biblioteca estándar de C que se utiliza para imprimir texto y datos en la consola. La función permite formatear la salida de manera flexible, lo que facilita la presentación de diferentes tipos de datos (como enteros, flotantes, cadenas de texto, etc.) en un formato legible.</p><p></p><i>ft_printf</i> es una implementación personalizada de la función printf. La finalidad de ft_printf es replicar el comportamiento de printf con algunas diferencias o mejoras específicas.</p></td>
+   <td><p>La función <a href="">printf</a> es una función de la biblioteca estándar de C que se utiliza para imprimir texto y datos en la consola. La función permite formatear la salida de manera flexible, lo que facilita la presentación de diferentes tipos de datos (como enteros, flotantes, cadenas de texto, etc.) en un formato legible.</p><p></p><i>ft_printf</i> es una implementación personalizada de la función printf. La finalidad de ft_printf es replicar el comportamiento de printf con algunas diferencias o mejoras específicas.</p></td>
  </tr>
  <tr>
 </table>
