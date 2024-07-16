@@ -1,8 +1,18 @@
-**ÍNDICE**
-- Formación en Ciberseguridad
-- Formación en Marketing Digital
-- Proyectos en 42 Málaga Fundación Telefónica
-- Proyectos en Desarrollo Web
+<table>
+  <tr>
+    <td>
+      **ÍNDICE**
+      - Formación en Ciberseguridad
+      - Formación en Marketing Digital
+      - Proyectos en 42 Málaga Fundación Telefónica
+      - Proyectos en Desarrollo Web
+    </td>
+    <td>
+      [![aternero's 42 stats](https://badge.mediaplus.ma/darkblue/aternero?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+    </td>
+  </tr>
+
+---
 
 <img src="https://github.com/anatermay/anatermay/assets/166392499/6ddbbbcf-6450-4bf1-8a79-880650104cf4" align="center" width="100%">
 <p align="center">
