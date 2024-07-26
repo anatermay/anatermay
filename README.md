@@ -19,7 +19,6 @@
 _En Curso_
 ## Ciberseguridad
 - Certificado de Profesionalidad de Google en Ciberseguridad.
-- Certificado de Cisco en Ciberseguridad.
 ## Marketing Digital
 - Certificado de Profesionalidad de Google en Marketing Digital e E-Commerce.
 
