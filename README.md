@@ -147,20 +147,298 @@ Comparto mi viaje en la programación mientras disfruto de la literatura. Este p
     <tr>
       <td align="center" valign="top">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=anatermay&theme=aura&hide_border=true&background=2A2A2A&border=EB47D4&stroke=6000EC&ring=41EB29&fire=EB47D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=EB47D4&excludeDaysLabel=EB47D4" width="320" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=anatermay&theme=aura&hide_border=true&background=2A2A2A&border=FFFFFF&stroke=6000EC&ring=C0C0C0&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" width="320" alt="GitHub Streak" />
         </a>
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=anatermay&show_icons=true&theme=aura&hide_border=true&bg_color=2A2A2A&title_color=EB47D4&text_color=FFFFFF&icon_color=41EB29" width="320" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=anatermay&show_icons=true&theme=aura&hide_border=true&bg_color=2A2A2A&title_color=FFFFFF&text_color=FFFFFF&icon_color=C0C0C0" width="320" alt="GitHub Stats" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatermay&layout=compact&theme=aura&hide_border=true&bg_color=2A2A2A&title_color=EB47D4&text_color=FFFFFF&icon_color=41EB29" width="320" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatermay&layout=compact&theme=aura&hide_border=true&bg_color=2A2A2A&title_color=FFFFFF&text_color=FFFFFF&icon_color=C0C0C0" width="320" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
-
+## 📌 42 Málaga
+<table>
+	<tr align="center" width="100%">
+	        <th></th>
+		<th><p style="color: #C0C0C0; font-style: bold;">Achievements</p></th>
+	        <th><p style="color: #C0C0C0; font-style: bold;">Date</p></th>
+	        <th><p style="color: #C0C0C0; font-style: bold;">Cathegory</p></th>
+		<th><p style="color: #C0C0C0; font-style: bold;">Rank</p></th>
+		<th><p style="color: #C0C0C0; font-style: bold;">Description</p></th>
+	    </tr>
+	    <tr>
+		<td><img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/218/PRO001-2.svg"></td>
+		<td>Welcome, Learner !</td>
+	        <td>28 Feb 2024</td>
+	        <td>Project</td>
+		<td></td>
+		<td>You passed the C Piscine. Welcome at 42!</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/41/SCO001.svg">
+		</td>
+		<td>
+			<p>All work and no play makes Jack a dull boy</p>
+		</td>
+		<td>
+			<p>08 Apr 2024</p>
+		</td>
+		<td>
+			<p>Scolarity</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>Por estar conectado 90 horas a lo largo de una semana.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/169/BADGE_SCOLARITY_billgates.svg">
+		</td>
+		<td>
+			<p>Bill Gates 1</p>
+		</td>
+		<td>
+			<p>08 Apr 2024</p>
+		</td>
+		<td>
+			<p>Scolarity</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>Por donar 1 punto a la piscina de puntos.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/54/SCO003.svg">
+		</td>
+		<td>
+			<p>Attendee 1</p>
+		</td>
+		<td>
+			<p>09 Apr 2024</p>
+		</td>
+		<td>
+			<p>Scolarity</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>Attended 1 event.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/54/SCO003.svg">
+		</td>
+		<td>
+			<p>Attendee 2</p>
+		</td>
+		<td>
+			<p>09 Apr 2024</p>
+		</td>
+		<td>
+			<p>Scolarity</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>Attended 3 events.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/56/SCO003.svg">
+		</td>
+		<td>
+			<p>Attendee 3</p>
+		</td>
+		<td>
+			<p>23 Apr 2024</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>BRONZE</p>
+		</td>
+		<td>
+			<p>Attended 10 events.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/169/BADGE_SCOLARITY_billgates.svg">
+		</td>
+		<td>
+			<p>Bill Gates 2</p>
+		</td>
+		<td>
+			<p>08 Apr 2024</p>
+		</td>
+		<td>
+			<p>Scolarity</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>Por donar 10 puntos a la piscina de puntos.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/82/PED011.svg">
+		</td>
+		<td>
+			<p>No tengo ni idea de qué he hecho</p>
+		</td>
+		<td>
+			<p>05 May 2024</p>
+		</td>
+		<td>
+			<p>Pedagogy</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>Por realizar la evaluación de un proyecto que no hayas hecho.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/56/SCO003.svg">
+		</td>
+		<td>
+			<p>Attendee 4</p>
+		</td>
+		<td>
+			<p>07 May 2024</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>SILVER</p>
+		</td>
+		<td>
+			<p>Attended 21 events.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/17/PRO005.svg">
+		</td>
+		<td>
+			<p>Cazador de bonus 1</p>
+		</td>
+		<td>
+			<p>16 May 2024</p>
+		</td>
+		<td>
+			<p>Project</p>
+		</td>
+		<td>
+			<p>BRONZE</p>
+		</td>
+		<td>
+			<p>Validar un proyecto con la máxima puntuación.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/4/PRO002.svg">
+		</td>
+		<td>
+			<p>Tripulante del Código 1</p>
+		</td>
+		<td>
+			<p>16 May 2024</p>
+		</td>
+		<td>
+			<p>Project</p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p>Por validar tu primer proyecto.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="https://cdn.intra.42.fr/achievement/image/84/PED009.svg">
+		</td>
+		<td>
+			<p>¡Confía en mí!</p>
+		</td>
+		<td>
+			<p>16 May 2024</p>
+		</td>
+		<td>
+			<p>Pedagogy</p>
+		</td>
+		<td>
+			<p>BRONZE</p>
+		</td>
+		<td>
+			<p>Realizar 21 evaluaciones seguidas sin perderte ninguna.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="64px" height="64px" src="">
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+	</tr>
+<!--	<tr>
+		<td>
+			<img width="64px" height="64px" src="">
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+		<td>
+			<p></p>
+		</td>
+	</tr> -->
+</table>
 
 
 ## Mis pasiones incluyen...
@@ -170,13 +448,13 @@ Comparto mi viaje en la programación mientras disfruto de la literatura. Este p
     <tr>
       <td align="right" width="100%">
         <h3>📚 Escritora y Lectora</h3>
-        <p align="right" style="color: #EB47D4;">Disfruto escribir mis propias historias y explorar mundos de fantasía. Mis relatos se nutren de la magia y los misterios que amo descubrir en cada página.</p>
+        <p align="right" style="color: #FFFFFF;">Disfruto escribir mis propias historias y explorar mundos de fantasía. Mis relatos se nutren de la magia y los misterios que amo descubrir en cada página.</p>
       </td>
     </tr>
     <tr>
       <td align="left" width="100%">
         <h3>🖤 Libros Favoritos</h3>
-        <p align="left" style="color: #41EB29;">
+        <p align="left" style="color: #C0C0C0;">
           - <em>Frankenstein</em> de Mary Shelley<br>
           - La saga <em>De Sangre y Cenizas</em> de Jennifer L. Armentrout
         </p>
@@ -185,7 +463,7 @@ Comparto mi viaje en la programación mientras disfruto de la literatura. Este p
     <tr>
       <td align="right" width="100%">
         <h3>🎶 Música Favorita</h3>
-        <p align="right" style="color: #EB47D4;">
+        <p align="right" style="color: #FFFFFF;">
           Heilung, Skald, Wardruna, Neoni, Billie Eilish...<br>
           Música que despierta la inspiración y crea la atmósfera perfecta para escribir.
         </p>
@@ -194,7 +472,7 @@ Comparto mi viaje en la programación mientras disfruto de la literatura. Este p
     <tr>
       <td align="left" width="100%">
         <h3>🎨 Estética y Arte</h3>
-        <p align="left" style="color: #41EB29;">
+        <p align="left" style="color: #C0C0C0;">
           Amo las imágenes <em>aesthetic</em> en Pinterest, especialmente los fanarts de los libros que he leído. Me inspiran y le dan vida visual a cada historia en mi mente.
         </p>
       </td>
