@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/anatermay/anatermay/blob/main/346269321-6ddbbbcf-6450-4bf1-8a79-880650104cf4.png" align="center" width="100%">
+  <img width="100%" src="https://github.com/anatermay/anatermay/blob/main/png/anatermay_header.png" align="center" width="100%">
 </div>
 <p align="right"><i><b>Escritora y desarrolladora en formación</b></i></p>
 
@@ -12,18 +12,18 @@
 </p>
 
 Comparto mi viaje en la programación mientras disfruto de la literatura. Este perfil es una ventana a mi progreso, donde comparto mis proyectos y aprendizajes.
-- Estudiante de programación en C en <a href="https://github.com/anatermay/anatermay/blob/main/AnaTerMay%20(1).png">42</a>
+- Estudiante de programación en C en <a href="https://github.com/anatermay/anatermay/blob/main/png/42.png">42</a>
 - Interesada en Desarrollo Web: HTML, CSS, JavaScript, MongoDB, ExpressJS, React, Angular y NodeJS
 
 
 
 <p align="center" width="100%">
-  <a href="https://github.com/anatermay/anatermay/blob/main/README-en.md"><img src="https://github.com/anatermay/anatermay/blob/main/1.png"></a>
-  <a href="https://github.com/anatermay/anatermay/blob/main/README.md"><img src="https://github.com/anatermay/anatermay/blob/main/2.png"></a>
-  <a href="https://www.instagram.com/anatermay.git"><img src="https://github.com/anatermay/anatermay/blob/main/3.png"></a>
-  <a href="https://www.threads.com/anatermay/"><img src="https://github.com/anatermay/anatermay/blob/main/4.png"></a>
-  <a href="https://www.linkedin.com/in/ana-ternero-mayorga/"><img src="https://github.com/anatermay/anatermay/blob/main/5.png"></a>
-  <a href="https://www.42malaga.com/"><img src="https://github.com/anatermay/anatermay/blob/main/AnaTerMay%20(1).png"></a>
+  <a href="https://github.com/anatermay/anatermay/blob/main/README-en.md"><img src="https://github.com/anatermay/anatermay/blob/main/png/english.png"></a>
+  <a href="https://github.com/anatermay/anatermay/blob/main/README.md"><img src="https://github.com/anatermay/anatermay/blob/main/png/spanish.png"></a>
+  <a href="https://www.instagram.com/anatermay.git"><img src="https://github.com/anatermay/anatermay/blob/main/png/instagram.png"></a>
+  <a href="https://www.threads.com/anatermay/"><img src="https://github.com/anatermay/anatermay/blob/main/png/threads.png"></a>
+  <a href="https://www.linkedin.com/in/ana-ternero-mayorga/"><img src="https://github.com/anatermay/anatermay/blob/main/png/linkedin.png"></a>
+  <a href="https://www.42malaga.com/"><img src="https://github.com/anatermay/anatermay/blob/main/png/42.png"></a>
 </p>
 
 
