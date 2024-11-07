@@ -9,6 +9,7 @@
   <b>@anatermay | <i>login: aternero</i></b>
   <a href="https://www.linkedin.com/in/ana-ternero-mayorga/" target="_blank"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.instagram.com/anatermay.git/" target="_blank"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+	<a href="https://profile.intra.42.fr/users/aternero"><img src="https://camo.githubusercontent.com/540caa3799b39a03c6118679241ccbced4c68cab167992bf8b995de53d85c8c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4dc3a16c6167612d626c61636b3f7374796c653d666c6174266c6f676f3d3432266c6f676f436f6c6f723d7768697465"></a>
 </p>
 
 Comparto mi viaje en la programación mientras disfruto de la literatura. Este perfil es una ventana a mi progreso, donde comparto mis proyectos y aprendizajes.
