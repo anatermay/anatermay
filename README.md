@@ -40,6 +40,7 @@
 		</tr>
 	</table>
 </div>
+<!--
 <h2>🗂️ Proyectos</h2>
 <table align="center">
 	<tr>
@@ -61,7 +62,7 @@
 						</a>
 						<p></p>
 					</i></b></li>
-				</ol> -->
+				</ol>
 			</details>
 			<details>
 				<summary>📚 Rank_0</summary>
@@ -103,7 +104,7 @@
 			</details>
 		</td>
 		<td>
-<!--			<details>
+			<details>
 				<summary>📚 Rank_4</summary>
 				<ol>
 					<li><b><i>
@@ -115,7 +116,7 @@
 					</i></b></li>
 				</ol>
 			</details>
--->
+
 		</td>
 	</tr>
 </table>
@@ -161,6 +162,7 @@
 			</details>
 	</tr>
 </table>
+-->
 <h2>🚀 Habilidades y Tecnologías</h2>
 <table align="center" width="100%">
 	<tr>
