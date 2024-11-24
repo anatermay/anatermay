@@ -280,4 +280,6 @@
 	<a href="https://www.instagram.com/anatermay.git/" target="_blank"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
 
+<!--
 > **Nota**: Este README está disponible en dos idiomas: [Inglés](https://github.com/anatermay/anatermay/blob/main/README-en.md) y [Español](https://github.com/anatermay/anatermay/blob/main/README.md).
+-->
