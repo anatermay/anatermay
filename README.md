@@ -20,7 +20,7 @@
 	<a href="https://profile.intra.42.fr/users/aternero"><img src="https://camo.githubusercontent.com/540caa3799b39a03c6118679241ccbced4c68cab167992bf8b995de53d85c8c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4dc3a16c6167612d626c61636b3f7374796c653d666c6174266c6f676f3d3432266c6f676f436f6c6f723d7768697465"></a>
 </p>
 <p align="center" width="100%">
-	<a href="https://github.com/anatermay/anatermay/blob/main/README-en.md"><img src="https://github.com/anatermay/anatermay/blob/main/png/english.png"></a>
+	<!--- <a href="https://github.com/anatermay/anatermay/blob/main/README-en.md"><img src="https://github.com/anatermay/anatermay/blob/main/png/english.png"></a> --->
 	<a href="https://github.com/anatermay/anatermay/blob/main/README.md"><img src="https://github.com/anatermay/anatermay/blob/main/png/spanish.png"></a>
 	<a href="https://www.instagram.com/anatermay.git"><img src="https://github.com/anatermay/anatermay/blob/main/png/instagram.png"></a>
 	<a href="https://www.threads.com/anatermay/"><img src="https://github.com/anatermay/anatermay/blob/main/png/threads.png"></a>
@@ -53,7 +53,7 @@
 		<td>
 			<details>
 				<summary>🖥️Discovery Web Piscine</summary>
-				<ol>
+				<!-- <ol>
 					<li><b><i>	
 						<a href="">
 							<img src="">
@@ -61,7 +61,7 @@
 						</a>
 						<p></p>
 					</i></b></li>
-				</ol>
+				</ol> -->
 			</details>
 			<details>
 				<summary>📚 Rank_0</summary>
