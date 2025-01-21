@@ -13,6 +13,11 @@
 	<li>Estudiante de programación en lenguaje C en <a href="">42</a>.</li>
 	<li>Interesada en Desarrollo Web: HTML, CSS, JavaScript, MongoDB, ExpressJS, React, Angular y NodeJS.</li>
 </ul>
+<table>
+	<tr>
+		<td><i>Current Project:		<b><i>Exam Rank 02</b></i></td>
+	</tr>
+</table>
 <p align="right">
 	<b>@anatermay | <i>login: aternero</i></b>
 	<a href="https://www.linkedin.com/in/ana-ternero-mayorga/" target="_blank"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -213,7 +218,7 @@
 		</td>
 		<td>
 <!--			<ul>
-				<li></li>
+				<li>Milanote</li>
 				<li></li>
 			</ul>
 -->
