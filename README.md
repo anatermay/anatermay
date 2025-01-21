@@ -225,6 +225,7 @@
 		</td>
 	</tr>
 </table>
+<!---
 <h2>🏆Logros y Reconocimientos</h2>
 <details>
 	<summary><b>42 Málaga Fundación Telefónica<b></b></summary>
@@ -236,9 +237,8 @@
 			</tr>
 		</table>
 </details>
-<!--
 <h2>Eventos</h2>
--->
+--->
 <h2>📞 Contacto</h2>
 <details>
 	<summary>Un poco más sobre mí...</summary>
