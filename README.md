@@ -11,11 +11,11 @@
 <p style="text-align: justify;">Comparto mi viaje en la programación mientras disfruto de la literatura. Este perfil es una ventana a mi progreso, donde comparto mis proyectos y aprendizajes.</p>
 <ul>
 	<li>Estudiante de programación en lenguaje C en <a href="">42</a>.</li>
-	<li>Interesada en Desarrollo Web: HTML, CSS, JavaScript, MongoDB, ExpressJS, React, Angular y NodeJS.</li>
+	<li>Interesada en Desarrollo Web.</li>
 </ul>
 <table>
 	<tr>
-		<td><i>Current Project:		<b><i>Exam Rank 02</b></i></td>
+		<td><i>Current Project:		<b><i>so_long</b></i></td>
 	</tr>
 </table>
 <p align="right">
@@ -168,6 +168,7 @@
 	</tr>
 </table>
 -->
+<!--
 <h2>🚀 Habilidades y Tecnologías</h2>
 <table align="center" width="100%">
 	<tr>
@@ -179,11 +180,11 @@
 	<tr>
 		<td align="left">🧩 Lenguajes de Programación</td>
 		<td>
-<!--
+
 			<ul>
 				<li></li>
 			</ul>
--->
+
 		</td>
 		<td>
 			<ul>
@@ -217,15 +218,15 @@
 			</ul>
 		</td>
 		<td>
-<!--			<ul>
+		<ul>
 				<li>Milanote</li>
 				<li></li>
 			</ul>
--->
+
 		</td>
 	</tr>
 </table>
-<!---
+
 <h2>🏆Logros y Reconocimientos</h2>
 <details>
 	<summary><b>42 Málaga Fundación Telefónica<b></b></summary>
@@ -238,7 +239,6 @@
 		</table>
 </details>
 <h2>Eventos</h2>
---->
 <h2>📞 Contacto</h2>
 <details>
 	<summary>Un poco más sobre mí...</summary>
@@ -279,6 +279,7 @@
 	</table>
 </details>
 </div>
+--->
 <p align="right">
 	<b>@anatermay | <i>login: aternero</i></b>
 	<a href="https://www.linkedin.com/in/ana-ternero-mayorga/" target="_blank"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
