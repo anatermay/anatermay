@@ -15,7 +15,7 @@
 </ul>
 <table>
 	<tr>
-		<td><i>Current Project:		<b><i>so_long</b></i></td>
+		<td><i>Current Project:		<b><i>minishell</b></i></td>
 	</tr>
 </table>
 <p align="right">
