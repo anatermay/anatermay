@@ -17,7 +17,7 @@
   <h3>🚀 Estudiante de Programación & Futura Desarrolladora de Software</h3>
   <p><strong>Actualmente estudiando en 42 Málaga | Rango 04</strong></p>
   
-  <a href="README-en.md">🇬🇧 English Version</a>
+  <!-- <a href="README-en.md">🇬🇧 English Version</a> -->
 </div>
 
 ---
