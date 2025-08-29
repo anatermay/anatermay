@@ -37,7 +37,7 @@ Soy una **estudiante de programación** apasionada en **42 Málaga**, una de las
 
 ## 🧑‍🏫 Sensei en 42 Málaga Fundación Telefónica
 
-Además de ser estudiante, también soy **Sensei** en 42 Málaga Fundación Telefónica. En 42, un *Sensei* es un estudiante que guía, orienta y apoya a otros compañeros durante sus proyectos y evaluaciones. Como Sensei, ayudo a resolver dudas técnicas, facilito el aprendizaje colaborativo y contribuyo a crear un ambiente de crecimiento y apoyo mutuo dentro del campus. Esta experiencia me permite reforzar mis conocimientos, mejorar mis habilidades de comunicación y devolver a la comunidad parte de lo que he aprendido.
+Además de ser estudiante, también he vivido la experiencia de ser **Sensei** en 42 Málaga Fundación Telefónica. En 42, un *Sensei* es un estudiante que guía, orienta y apoya a otros compañeros durante sus proyectos y evaluaciones. Como Sensei, he ayudado a resolver dudas técnicas, he facilitado el aprendizaje colaborativo y he contribuido a crear un ambiente de crecimiento y apoyo mutuo dentro del campus. Esta experiencia me ha permitido reforzar mis conocimientos, mejorar mis habilidades de comunicación y devolver a la comunidad parte de lo que he aprendido.
 
 ---
 
